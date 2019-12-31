@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-<programme channel="Perdido em Marte"›
- <title lang="pt">Perdido em Marte</title>
- <desc lang="pt">teste de epg</desc>
- <category lang="pt">Filme</category>
- <rating system="BR">
- <value>14</value>
- </rating>
-</programme>
+<programme channel="Passageiros">
+    <title lang="pt">Passageiros</title>
+    <desc lang="pt">Bella novamente se encontra cercada por perigo quando Seattle é assolada por uma sequência de assassinatos misteriosos, ela é forçada a escolher entre seu amor pelo vampiro Edward e sua amizade com o lobisomem Jacob(n)</desc>
+    <credits>
+      <director>David Slade</director>
+      <actor>Kristen Stewart</actor>
+      <actor>Robert Pattinson</actor>
+      <actor>Taylor Lautner</actor>
+      <actor>Xavier Samuel</actor>
+      <actor>Bryce Dallas Howard</actor>
+      <actor>Anna Kendrick</actor>
+      <actor>Michael Welch</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>3.0</value>
+    </star-rating>
+  </programme>
 </tv>
