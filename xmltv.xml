@@ -1,4 +1,6 @@
-<programme channel="Perdido em Marte"›
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+<programme channel="Perdido em Marte"â€º
  <title lang="pt">Perdido em Marte</title>
  <desc lang="pt">teste de epg</desc>
  <category lang="pt">Filme</category>
@@ -6,3 +8,4 @@
  <value>14</value>
  </rating>
 </programme>
+</tv>
